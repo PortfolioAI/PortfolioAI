@@ -31,11 +31,8 @@ Here's a peek into the Pandora's box of Python programs:
 - **WebSiftLite**: A robust webpage scraper.
 - **YouTube Downloader**: An application for downloading YouTube videos or audio files.
 
-Organization
 Right now, the programs are arranged in the time-honored tradition of "eh, just stick it where it fits". But worry not, an organizational revamp is in the pipeline.
 
-Contributing and Feedback
 Feedback, contributions, random thoughts - I'm all ears! Feel free to open an issue, submit a pull request, or send smoke signals.
 
-License
-Each program comes with a tag - GNU General Public License v3.0. So, while you're welcome to use and share, don't forget to tip your hat to the source!
+### Each program comes with a tag - GNU General Public License v3.0. So, while you're welcome to use and share, don't forget to tip your hat to the source! ###
