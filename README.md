@@ -1,22 +1,22 @@
-🌟 Welcome to PortfolioAI - AI Innovation in Software Development 🌟
+🌟 Welcome to PortfolioAI 🌟
 
 👨‍💻 About Me:
-  Dedicated software developer specializing in AI-assisted coding and computer vision, passionate about AI's transformative potential in technology.
+  Passionate developer with a focus on AI, from language models to computer vision. Began my coding journey a year ago with the advent of GPT-4.
 
 💡 My Approach:
-  Focused on using cutting-edge AI tools for impactful, scalable solutions, demonstrating innovation and quality in AI development.
+  Dedicated to innovative AI applications, encompassing AI-assisted coding, language processing, and vision technologies.
 
 🤝 Collaboration and Networking:
-  Open to collaborations and eager to connect with professionals and enthusiasts in AI and software development.
+  Keen on collaborative opportunities and connecting within the tech community.
 
 🔍 Explore My Repositories:
-  Discover a range of projects highlighting AI integration in technology.
+  My GitHub features a diverse range of AI-focused software development projects.
 
 🤗 Hugging Face Contributions:
-  Visit my Hugging Face profile 'phanerozoic' to explore my fine-tuned AI models, reflecting my skills in AI model training and customization.
+  Explore my fine-tuned language models on [Hugging Face](https://huggingface.co/phanerozoic).
 
 📫 Contact and Connect:
-  Reach out through [GitHub](https://github.com/PortfolioAI) for inquiries or collaboration opportunities.
+  Connect with me on [GitHub](https://github.com/PortfolioAI).
 
 📜 Licensing:
-  Projects are under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+  Projects are licensed under Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
