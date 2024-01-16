@@ -19,4 +19,4 @@
   Connect with me on [GitHub](https://github.com/PortfolioAI).
 
 📜 Licensing:
-  Projects are licensed under Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+  Most of my projects are licensed under the MIT License, which permits broad usage and modifications. This license promotes open-source collaboration and sharing.
